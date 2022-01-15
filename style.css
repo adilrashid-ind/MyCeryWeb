@@ -1,0 +1,86 @@
+* {
+  /* font-family: "Righteous", cursive; */
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+}
+
+.header ul {
+  list-style-type: none;
+  display: inline;
+}
+
+.headerBtn {
+  border: 1px solid white;
+  color: white;
+}
+.headerBtn:hover {
+  color: black;
+  background: white;
+}
+.myNavBar {
+  padding: 18px;
+  color: white;
+  background-color: #00ce6a;
+  border-radius: 10px;
+}
+
+.section1 {
+  background: url(/assets/bg1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  padding: 50px;
+}
+
+.section1Content {
+  margin-top: 10px;
+  background: white;
+  padding: 70px;
+
+  border-radius: 10px;
+}
+
+.section1 h1 {
+  font-weight: 900;
+}
+
+.section1 img {
+  width: 100%;
+
+  cursor: pointer;
+}
+.S1C1 {
+  padding: 40px;
+}
+
+.lottiePlayer {
+  margin-top: -40px;
+  width: auto;
+  height: 500px;
+}
+
+.downloadBtn {
+  background: transparent;
+  color: #00ce6a;
+  border: 1px solid #00ce6a;
+  border-radius: 5px;
+  padding: 3px 10px;
+  font-size: 20px;
+  width: 100%;
+}
+
+.downloadBtn:hover {
+  background-color: #4cc5dc;
+  color: white;
+  border: none;
+}
+
+@media only screen and (max-width: 600px) {
+  .section1Content {
+    padding: 0px;
+  }
+  .lottiePlayer {
+    width: auto;
+    height: auto;
+  }
+}
