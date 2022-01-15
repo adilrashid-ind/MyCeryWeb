@@ -4,11 +4,6 @@
   font-weight: 600;
 }
 
-.header ul {
-  list-style-type: none;
-  display: inline;
-}
-
 .headerBtn {
   border: 1px solid white;
   color: white;
@@ -82,5 +77,8 @@
   .lottiePlayer {
     width: auto;
     height: auto;
+  }
+  .section1 {
+    padding: 20px;
   }
 }
