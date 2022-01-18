@@ -93,6 +93,12 @@
   .section2 {
     padding: 30px;
   }
+  .section1 p {
+    color: black;
+    text-align: center;
+    border: 1px solid #00bda5;
+    padding: 10px;
+  }
 }
 
 /* Section 2 */
