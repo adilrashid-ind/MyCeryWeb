@@ -89,6 +89,9 @@
   .section1 {
     padding: 20px;
   }
+  .crDetails {
+    text-align: center;
+  }
 
   /* .section2 {
     padding: 30px;
@@ -99,7 +102,7 @@
     border: 1px solid #00bda5;
     padding: 10px;
   }
-  .section2AboutUs{
+  .section2AboutUs {
     padding: 0px;
   }
 }
