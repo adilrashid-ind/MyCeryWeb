@@ -240,6 +240,8 @@
 .section1ContentContactUs {
   background: white;
   padding: 10px;
+  margin-top: 20px;
+  border-radius: 10px;
 }
 
 .form-group {
