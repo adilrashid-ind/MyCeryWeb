@@ -87,12 +87,12 @@
     height: auto;
   }
   .section1 {
-    padding: 30px;
+    padding: 20px;
   }
 
-  .section2 {
+  /* .section2 {
     padding: 30px;
-  }
+  } */
   #tagLine {
     color: black;
     text-align: center;
